@@ -44,6 +44,7 @@ object Hello {
     }*/
     println(h1("ss", "aa", "ccc"))
 
+
   }
 
   def h1(ss: String*): Any = {
@@ -59,5 +60,8 @@ object Hello {
     }*/
     return ss
 
+  }
+  def m(): Unit ={
+    print("dfsfds");
   }
 }
