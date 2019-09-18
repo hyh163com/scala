@@ -64,4 +64,7 @@ object Hello {
   def m(): Unit ={
     print("dfsfds");
   }
+  def f(): Unit ={
+    print("fdsf");
+  }
 }
