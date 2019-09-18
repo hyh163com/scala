@@ -47,6 +47,7 @@ object Hello {
   }
 
   def h1(ss: String*): Any = {
+    print("sss")
     /*var a =Array(100,"张三",true,new Date())
     var i= a(new Random().nextInt(4))
     var res=i match {
