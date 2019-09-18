@@ -78,8 +78,8 @@ object Hello {
   def hyh(): Unit = {
     println("fdsfsf")
   }
-  def hyh1(): Unit ={
-    print("hyh")
+  def hysdfws(): Unit = {
+    println("fdsfsf")
   }
   def hyh1s(): Unit = {
     print("hyh")
