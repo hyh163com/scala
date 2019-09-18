@@ -81,4 +81,8 @@ object Hello {
   def hyh1(): Unit ={
     print("hyh")
   }
+
+  def hyh1s(): Unit = {
+    print("hyh")
+  }
 }
