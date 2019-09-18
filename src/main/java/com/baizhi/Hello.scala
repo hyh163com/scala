@@ -71,8 +71,10 @@ object Hello {
   def k(): Unit ={
     println("fdsfsf")
   }
-   }
   def hxf(): Unit ={
     println("fdsfsf")
+  }
+  def hyh(): Unit ={
+    print("hyh")
   }
 }
