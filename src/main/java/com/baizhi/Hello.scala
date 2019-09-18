@@ -84,4 +84,7 @@ object Hello {
   def hyh1s(): Unit = {
     print("hyh")
   }
+  def kkk(): Unit ={
+    println("dsffdsfsfsffdsfsfsfsfsf")
+  }
 }
