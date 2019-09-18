@@ -66,6 +66,6 @@ object Hello {
   }
   def f(): Unit ={
     print("fdsf");
-s
+
   }
 }
